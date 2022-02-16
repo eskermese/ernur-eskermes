@@ -6,7 +6,7 @@
 <a href="https://discord.gg/jSbzCeWWqM">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ernur-eskermes-7a147a205//">
+<a href="https://www.linkedin.com/in/ernur-eskermes-7a147a205/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
